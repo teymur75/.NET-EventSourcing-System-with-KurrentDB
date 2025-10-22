@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Microservices.EventStoreSourcing\\Microservices.EventSourcingWithEventStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99896A9D-51D8-4827-9C2D-DA522168298C}|Microservices.EventSourcingWithEventStoree\\Microservices.EventSourcingWithEventStoree.csproj|c:\\users\\user\\desktop\\microservices.eventstoresourcing\\microservices.eventsourcingwitheventstore\\microservices.eventsourcingwitheventstoree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99896A9D-51D8-4827-9C2D-DA522168298C}|Microservices.EventSourcingWithEventStoree\\Microservices.EventSourcingWithEventStoree.csproj|solutionrelative:microservices.eventsourcingwitheventstoree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Microservices.EventStoreSourcing\\Microservices.EventSourcingWithEventStore\\Microservices.EventSourcingWithEventStoree\\Program.cs",
+              "RelativeDocumentMoniker": "Microservices.EventSourcingWithEventStoree\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Microservices.EventStoreSourcing\\Microservices.EventSourcingWithEventStore\\Microservices.EventSourcingWithEventStoree\\Program.cs",
+              "RelativeToolTip": "Microservices.EventSourcingWithEventStoree\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:18:09.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
